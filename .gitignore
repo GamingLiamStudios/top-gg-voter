@@ -1,0 +1,16 @@
+# IDE
+.vs/
+.vscode/
+.idea/
+
+# Python
+__pycache__/
+
+# Misc
+.profile/
+.userdata/
+lastvote.pkl
+
+chromedriver.exe
+geckodriver.exe
+geckodriver.log
