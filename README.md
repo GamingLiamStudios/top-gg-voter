@@ -1,6 +1,6 @@
 # Top.gg Voter
 
-A bot written in selenium to automatically vote any bot on top.gg every 12 hours.
+A bot to automatically vote any bot on top.gg every 12 hours.
 
 ## Prequisites
 
